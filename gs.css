@@ -1,0 +1,46 @@
+.speech{font-family: sans-serif; font-size: 12px;color: black}
+.song{font-family: sans-serif; font-size: 12px;color: black}
+.duet{font-family: sans-serif; font-size: 12px;color: black}
+.scene{font-family: sans-serif; font-size: 12px;color: black}
+
+.name{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:15px;
+    color:black;
+}
+.name:hover{
+    border: solid 2px rgb(91, 53, 109);
+    text-shadow: 3px 3px 3px orange;
+}
+.direction{background-color: beige;font-family:'Courier New', Courier, monospace; font-size:10px;color:aliceblue}
+.direction:hover{
+    background-color: aqua;
+    color: blue;
+}
+.KAT{
+    color:rgb(157, 167, 126)
+}
+.KIN{
+    color: aquamarine;
+}
+.ISA{
+    color:rgb(85, 83, 212);
+
+}
+
+.ALL{
+    color:rgb(83, 212, 102);
+
+}
+.FRE{
+    color:rgb(212, 83, 83);
+
+}
+.EDI{
+    color:rgb(212, 83, 188);
+
+}
+.SAM{
+    color:rgb(199, 212, 83);
+
+}
