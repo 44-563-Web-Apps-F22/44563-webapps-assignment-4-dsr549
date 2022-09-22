@@ -12,10 +12,10 @@
     border: solid 2px rgb(91, 53, 109);
     text-shadow: 3px 3px 3px orange;
 }
-.direction{background-color: beige;font-family:'Courier New', Courier, monospace; font-size:10px;color:aliceblue}
+.direction{background-color: beige;font-family:'Courier New', Courier, monospace; font: size 30px;color:rgb(160, 18, 37)}
 .direction:hover{
     background-color: aqua;
-    color: rgb(17, 255, 0);
+    color: rgb(76, 0, 255);
 }
 .KAT{
     color:rgb(157, 167, 126)
@@ -66,8 +66,8 @@ ul.navbar-horizontal{
 }
 ul.navbar-horizontal li{
     float: left;
-    color:rgb(68, 64, 64)
-    background-color:rgb(178, 157, 192);
+    color:rgb(68, 64, 64);
+    background-color:rgb(17, 255, 0);
 }
 ul.navbar-horizontal a{
     display: block;
